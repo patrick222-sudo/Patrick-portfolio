@@ -206,13 +206,13 @@ function App() {
         <div className="contact-grid">
           
           <div className="contact-cards animate-fade-in">
-            <a href="mailto:patickokoro604@gmail.com" className="contact-card">
+            <a href="mailto:patrickokoro604@gmail.com" className="contact-card">
               <div className="contact-icon-wrapper">
                 <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path><polyline points="22,6 12,13 2,6"></polyline></svg>
               </div>
               <div className="contact-info">
                 <span className="contact-method">Email</span>
-                <span className="contact-value">patickokoro604@gmail.com</span>
+                <span className="contact-value">patrickokoro604@gmail.com</span>
               </div>
             </a>
 
@@ -264,7 +264,7 @@ function App() {
           </div>
 
           <div className="contact-form-wrapper animate-fade-in" style={{ animationDelay: '0.2s' }}>
-            <form className="contact-form" action="mailto:patickokoro604@gmail.com" method="POST" encType="text/plain">
+            <form className="contact-form" action="mailto:patrickokoro604@gmail.com" method="POST" encType="text/plain">
               <div className="form-group">
                 <label className="form-label" htmlFor="name">Full Name</label>
                 <input type="text" id="name" name="Name" className="form-control" placeholder="John Doe" required />
